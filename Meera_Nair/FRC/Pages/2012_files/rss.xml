@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Rebound Rumble</title>
+    <link>http://www.meeranair.org/Meera_Nair/FRC/Pages/2012.html</link>
+    <description>Rebound Rumble</description>
+    <item>
+      <title>We take vans from Milford to St. Louis for Championships</title>
+      <link>http://www.meeranair.org/Meera_Nair/FRC/Pages/2012.html#0</link>
+      <guid isPermaLink="false">313512db-b0df-4e29-94e9-603933c580a1</guid>
+      <enclosure url="http://www.meeranair.org/Meera_Nair/FRC/Pages/2012_files/Media/480520_4448111851538_557701449_n/480520_4448111851538_557701449_n.jpg" length="110631" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.meeranair.org/Meera_Nair/FRC/Pages/2012_files/Media/480520_4448111851538_557701449_n/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.meeranair.org/Meera_Nair/FRC/Pages/2012_files/Media/480520_4448111851538_557701449_n/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.meeranair.org/Meera_Nair/FRC/Pages/2012_files/Media/480520_4448111851538_557701449_n/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_184_85&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;We take vans from Milford to St. Louis for Championships&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>We also eat lunch out of our vans</title>
+      <link>http://www.meeranair.org/Meera_Nair/FRC/Pages/2012.html#1</link>
+      <guid isPermaLink="false">3be2b7d4-b0cf-4a4a-aa04-0d0afe363b8a</guid>
+      <enclosure url="http://www.meeranair.org/Meera_Nair/FRC/Pages/2012_files/Media/481925_4448122251798_1946390177_n/481925_4448122251798_1946390177_n.jpg" length="112466" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.meeranair.org/Meera_Nair/FRC/Pages/2012_files/Media/481925_4448122251798_1946390177_n/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.meeranair.org/Meera_Nair/FRC/Pages/2012_files/Media/481925_4448122251798_1946390177_n/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.meeranair.org/Meera_Nair/FRC/Pages/2012_files/Media/481925_4448122251798_1946390177_n/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_184_85&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;We also eat lunch out of our vans&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>And stopped in Vermont on the way home to pass a frisbee around and stretch our legs</title>
+      <link>http://www.meeranair.org/Meera_Nair/FRC/Pages/2012.html#2</link>
+      <guid isPermaLink="false">10b54e20-1d5d-4d69-911c-c5314a021970</guid>
+      <enclosure url="http://www.meeranair.org/Meera_Nair/FRC/Pages/2012_files/Media/484490_4448122971816_2134846367_n/484490_4448122971816_2134846367_n.jpg" length="116740" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.meeranair.org/Meera_Nair/FRC/Pages/2012_files/Media/484490_4448122971816_2134846367_n/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.meeranair.org/Meera_Nair/FRC/Pages/2012_files/Media/484490_4448122971816_2134846367_n/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.meeranair.org/Meera_Nair/FRC/Pages/2012_files/Media/484490_4448122971816_2134846367_n/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_184_85&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;And stopped in Vermont on the way home to pass a frisbee around and stretch our legs&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>
