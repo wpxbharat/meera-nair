@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>FIRST Robotics</title>
+    <link>http://www.meeranair.org/Meera_Nair/FRC/FRC.html</link>
+    <description>FIRST Robotics</description>
+    <item>
+      <title>2010</title>
+      <link>http://www.meeranair.org/Meera_Nair/FRC/Pages/2010.html</link>
+      <guid isPermaLink="false">b4a23256-43fc-4486-b42e-f35efb8ea7a0</guid>
+    </item>
+    <item>
+      <title>2011</title>
+      <link>http://www.meeranair.org/Meera_Nair/FRC/Pages/2011.html</link>
+      <guid isPermaLink="false">c9cad386-5416-4358-bcbc-b8694f1e5009</guid>
+    </item>
+    <item>
+      <title>2012</title>
+      <link>http://www.meeranair.org/Meera_Nair/FRC/Pages/2012.html</link>
+      <guid isPermaLink="false">80734e99-55c2-4284-b0e1-fd216130b458</guid>
+    </item>
+  </channel>
+</rss>
